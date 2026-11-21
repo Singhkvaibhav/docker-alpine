@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv sh
+
+s6-setuidgid redis redis-server /etc/redis.conf
+
