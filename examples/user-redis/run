@@ -1,0 +1,4 @@
+
+# run the user-redis image
+docker run --rm --name user-redis smebberson/user-redis
+
