@@ -1,0 +1,4 @@
+
+# Run the user-consul-ui example.
+dc up -d && dc scale consul=3
+
