@@ -1,0 +1,14 @@
+{
+    "service": {
+        "name": "apache",
+        "port": 80,
+        "check": {
+            "id": "apache",
+            "name": "apache on port 80",
+            "http": "http://localhost/ping.html",
+            "interval": "10s",
+            "timeout": "1s"
+        }
+    }
+}
+
