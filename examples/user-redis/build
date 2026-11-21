@@ -1,0 +1,2 @@
+docker build -t smebberson/user-redis /vagrant/examples/user-redis
+
