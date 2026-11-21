@@ -1,0 +1,6 @@
+#!/usr/bin/with-contenv sh
+
+cd /app
+
+node index.js
+
