@@ -1,0 +1,2 @@
+docker build -t smebberson/alpine-consul:local /vagrant/alpine-consul
+
