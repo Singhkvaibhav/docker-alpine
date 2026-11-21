@@ -1,0 +1,2 @@
+docker build -t smebberson/user-rabbitmq /vagrant/examples/user-rabbitmq
+
