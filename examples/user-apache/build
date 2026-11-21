@@ -1,0 +1,2 @@
+docker build -t smebberson/user-apache /vagrant/examples/user-apache
+
